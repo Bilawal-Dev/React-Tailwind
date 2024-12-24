@@ -3,7 +3,7 @@
 The MARKETIV - Marketing Agency Website is a modern and sleek marketing site for a fictional agency. This project is part of my front-end development portfolio, showcasing the use of React, Tailwind CSS, Framer Motion, and GSAP to create a dynamic, eye-catching, and responsive website with stunning animations and 3D effects.
 
 ## 🌐 Live Preview
-Check out the live preview of the project here: [Live Preview Link]
+Check out the live preview of the project here: [https://marketiv.netlify.app/]
 
 ## ✨ Features
 - 📱 **Responsive Design**: Optimized for smooth performance and seamless navigation across devices (mobile, tablet, desktop).
